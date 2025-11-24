@@ -1,2 +1,2 @@
-# HEART_Disease_prediction-
-Internship_project
+# INTERSHIP_PROJECT_1-
+heart_disease_prediction
